@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/johnsundell/collectionConcurrencyKit.git",
         "state": {
           "branch": null,
-          "revision": "2e4984dcaed6432f4eff175f6616ba463428cd8a",
-          "version": "0.1.0"
+          "revision": "b4f23e24b5a1bff301efc5e70871083ca029ff95",
+          "version": "0.2.0"
         }
       },
       {
@@ -30,11 +30,11 @@
       },
       {
         "package": "Ink",
-        "repositoryURL": "https://github.com/tiwu5566/Ink.git",
+        "repositoryURL": "https://github.com/tiwu5566/Ink",
         "state": {
           "branch": null,
           "revision": "4d469b4df0b53ea317bcf00de3a375c748c97dc3",
-          "version": "0.3.0"
+          "version": "0.7.0"
         }
       },
       {
@@ -42,8 +42,8 @@
         "repositoryURL": "https://github.com/johnsundell/plot.git",
         "state": {
           "branch": null,
-          "revision": "80612b34252188edbef280e5375e2fc5249ac770",
-          "version": "0.9.0"
+          "revision": "271926b4413fe868739d99f5eadcf2bd6cd62fb8",
+          "version": "0.14.0"
         }
       },
       {
