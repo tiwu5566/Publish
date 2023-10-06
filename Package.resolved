@@ -30,11 +30,11 @@
       },
       {
         "package": "Ink",
-        "repositoryURL": "https://github.com/johnsundell/ink.git",
+        "repositoryURL": "https://github.com/tiwu5566/Ink.git",
         "state": {
           "branch": null,
-          "revision": "77c3d8953374a9cf5418ef0bd7108524999de85a",
-          "version": "0.5.1"
+          "revision": "4d469b4df0b53ea317bcf00de3a375c748c97dc3",
+          "version": "0.3.0"
         }
       },
       {
